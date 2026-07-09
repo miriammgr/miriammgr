@@ -23,7 +23,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🍡 my toolbox
+### ☆⋆｡𖦹°‧★🫧✩°𓏲⋆. ⋆⸜ ✮˚☆⋆｡𖦹°‧★🫧✩°𓏲⋆. ⋆⸜ ✮˚
 
 I am passionate about creating technology that puts people first, combining human-centred design with accessibility to build intuitive and meaningful digital experiences. I enjoy learning new skills, adapting to new challenges, and collaborating with multidisciplinary teams to develop solutions that have a positive impact on people's lives.
 
