@@ -14,11 +14,11 @@
 
 ### 🌸 about me
 
-- 🎓 studying **[your field of study]** at **[your university]**
-- 🔭 currently working on **[project name]**
-- 🌱 currently learning **[technology/language]**
-- 💌 reach me at **your-email@example.com**
-- 🐣 fun fact: **[something cute about you]**
+- 🎓 studying **Digital Humanities** at **University of Pisa**
+- 🔭 currently working on **a Unity3D project **
+- 🌱 currently learning **#C**
+- 💌 reach me at **mirigrande96@gmail.com**
+- 🐣 fun fact: ****
 
 </td>
 <td valign="top" width="50%">
@@ -46,15 +46,10 @@
 <img src="https://img.shields.io/badge/-JavaScript-D5C1FF?style=flat-square&logo=javascript&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-TypeScript-FFD6E8?style=flat-square&logo=typescript&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-Python-CDEAC0?style=flat-square&logo=python&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Java-FFE8B3?style=flat-square&logo=openjdk&logoColor=4A4A6A" />
 <br>
 <img src="https://img.shields.io/badge/-React-FFD1DC?style=flat-square&logo=react&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Node.js-C1E1FF?style=flat-square&logo=nodedotjs&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Tailwind-D5C1FF?style=flat-square&logo=tailwindcss&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-MongoDB-FFD6E8?style=flat-square&logo=mongodb&logoColor=4A4A6A" />
 <br>
 <img src="https://img.shields.io/badge/-Git-CDEAC0?style=flat-square&logo=git&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Docker-FFE8B3?style=flat-square&logo=docker&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-Figma-FFD1DC?style=flat-square&logo=figma&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-VS%20Code-C1E1FF?style=flat-square&logo=visualstudiocode&logoColor=4A4A6A" />
 
@@ -68,10 +63,9 @@
 
 ### 🎀 find me around
 
-<a href="https://instagram.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=4A4A6A" /></a>
-<a href="https://twitter.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Twitter-C1E1FF?style=for-the-badge&logo=twitter&logoColor=4A4A6A" /></a>
-<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-D5C1FF?style=for-the-badge&logo=linkedin&logoColor=4A4A6A" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=4A4A6A" /></a>
+<a href="https://instagram.com/myrwx"><img src="https://img.shields.io/badge/Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=4A4A6A" /></a>
+<a href="https://linkedin.com/in/miriamgrande00"><img src="https://img.shields.io/badge/LinkedIn-D5C1FF?style=for-the-badge&logo=linkedin&logoColor=4A4A6A" /></a>
+<a href="mailto:mirigrande96@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=4A4A6A" /></a>
 
 </div>
 
