@@ -15,10 +15,10 @@
 ### 🌸 about me
 
 - 🎓 studying **Digital Humanities** at **University of Pisa**
-- 🔭 currently working on **a Unity3D project **
+- 🔭 currently working on **a Unity3D project**
 - 🌱 currently learning **#C**
 - 💌 reach me at **mirigrande96@gmail.com**
-- 🐣 fun fact: ****
+- 🐣 fun fact: **I love birds!**
 
 </td>
 <td valign="top" width="50%">
@@ -52,8 +52,6 @@
 <img src="https://img.shields.io/badge/-Git-CDEAC0?style=flat-square&logo=git&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-Figma-FFD1DC?style=flat-square&logo=figma&logoColor=4A4A6A" />
 <img src="https://img.shields.io/badge/-VS%20Code-C1E1FF?style=flat-square&logo=visualstudiocode&logoColor=4A4A6A" />
-
-<sub>✏️ edit the badges above to match the stack you actually use — swap names/colors/logos freely on <a href="https://shields.io">shields.io</a></sub>
 
 </div>
 
