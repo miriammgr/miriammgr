@@ -25,11 +25,7 @@
 
 ### 🍡 my toolbox
 
-<img src="https://img.shields.io/badge/-Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-JavaScript-C1E1FF?style=for-the-badge&logo=javascript&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-React-D5C1FF?style=for-the-badge&logo=react&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Figma-FFD6E8?style=for-the-badge&logo=figma&logoColor=4A4A6A" />
-<img src="https://img.shields.io/badge/-Git-CDEAC0?style=for-the-badge&logo=git&logoColor=4A4A6A" />
+I am passionate about creating technology that puts people first, combining human-centred design with accessibility to build intuitive and meaningful digital experiences. I enjoy learning new skills, adapting to new challenges, and collaborating with multidisciplinary teams to develop solutions that have a positive impact on people's lives.
 
 </td>
 </tr>
