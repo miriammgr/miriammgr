@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:C1E1FF,100:D5C1FF&height=220&section=header&text=Hi,%20I'm%20Miriam!&fontSize=42&fontColor=4A4A6A&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20code%20✨&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fredoka&size=24&pause=1000&color=B39CD0&center=true&vCenter=true&width=500&lines=✨+curious+dev+with+a+dreamy+side;🌱+always+growing%2C+one+bug+at+a+time;☕+powered+by+coffee+and+lofi+beats;🐾+if+you+like+what+you+see%2C+leave+a+⭐" alt="typing-svg" />
-
 
 </div>
 
