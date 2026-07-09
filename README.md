@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🌸 about me
+### ☆⋆｡𖦹°‧★🫧✩°𓏲⋆. ⋆⸜ ✮˚☆⋆｡𖦹°‧★🫧✩°𓏲⋆. ⋆⸜ ✮˚
 
 - 🎓 studying **Digital Humanities** at **University of Pisa**
 - 🔭 currently working on **a Unity3D project**
