@@ -69,7 +69,7 @@ I am passionate about creating technology that puts people first, combining huma
 ### 🐾 a little friend passing by
 
 <!-- snake-eater-svg -->
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="97%" />
+<img src="https://raw.githubusercontent.com/miriammgr/miriammgr/output/github-contribution-grid-snake-dark.svg" width="97%" />
 <!-- snake-eater-svg -->
 
 </div>
