@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:C1E1FF,100:D5C1FF&height=220&section=header&text=Hi,%20I'm%20Miriam!&fontSize=42&fontColor=4A4A6A&animation=fadeIn&fontAlignY=38&desc=✨&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:C1E1FF,100:D5C1FF&height=220&section=header&text=Hi,%20I'm%20Miriam!&fontSize=42&fontColor=4A4A6A&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55&descSize=18" width="100%"/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/miriammgr/miriammgr/main/assets/bunny-hop.gif" width="90" />
 </div>
