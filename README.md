@@ -61,7 +61,7 @@ I am passionate about creating technology that puts people first, combining huma
 
 <a href="https://instagram.com/myrwx"><img src="https://img.shields.io/badge/Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=4A4A6A" /></a>
 <a href="https://linkedin.com/in/miriamgrande00"><img src="https://img.shields.io/badge/LinkedIn-D5C1FF?style=for-the-badge&logo=linkedin&logoColor=4A4A6A" /></a>
-<a href="mailto:mirigrande96@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=4A4A6A" /></a>
+<a href="mailto:miriamgrande@outlook.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=4A4A6A" /></a>
 
 </div>
 
