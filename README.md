@@ -19,7 +19,7 @@
 - 🎓 studying **Digital Humanities** at **University of Pisa**
 - 🔭 currently working on **a Unity3D project**
 - 🌱 currently learning **#C**
-- 💌 reach me at **mirigrande96@gmail.com**
+- 💌 reach me at **miriamgrande@outlook.com**
 - 🐣 fun fact: **I love birds!**
 
 </td>
